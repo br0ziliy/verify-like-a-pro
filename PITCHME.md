@@ -8,11 +8,15 @@
 ## Agenda
 @snapend
 
+@snap[west]
+@ul
 - peer reviews
   - Bitbucket
   - PMR
 - implementing change
   - before and after
+@ulend
+@snapend
 
 ---
 
