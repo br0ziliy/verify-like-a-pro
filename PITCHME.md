@@ -2,8 +2,8 @@
 
 
 ---
+@title[Agenda]
 
-## Agenda
 
 - peer reviews
   - Bitbucket
