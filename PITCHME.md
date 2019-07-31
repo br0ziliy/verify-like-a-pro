@@ -4,6 +4,9 @@
 ---
 @title[Agenda]
 
+@snap[north-west]
+## Agenda
+@snapend
 
 - peer reviews
   - Bitbucket
